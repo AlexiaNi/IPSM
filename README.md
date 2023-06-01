@@ -1,1 +1,1 @@
-# Cod sursa Arduino R3 - senzor higrometru, temperatura, umiditate
+# Cod sursa Arduino R3 - sera automatizata
